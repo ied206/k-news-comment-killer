@@ -1,0 +1,95 @@
+[Adblock Plus 2.0]
+! Version: 20160621
+! Title:Joveler's K-News Comment Killer
+! Last modified: 21 Jun 2016
+! Expires: 3 days (update frequency)
+! Homepage: https://joveler.kr
+!
+! -----------------------General Blocking Rules-----------------------
+!
+! No more anguish from K-News Trash, Ilbe-style Comments!
+! This list deletes comments of trash from news site.
+ 
+! [Portal]
+! Naver News
+news.naver.com###cbox_module > .u_cbox_type_sort_favorite.u_cbox_ko.u_cbox_wrap > .u_cbox_content_wrap > .u_cbox_list
+! Daum News
+media.daum.net##.cmt_box
+! Nate News
+news.nate.com##.ifr_reple
+||m.comm.news.nate.com/view/CommentList$subdocument
+
+! [Newspaper 1]
+! Chosun
+news.chosun.com###news_comment_id > .sec_con
+m.chosun.com###contents > .m100_wrap > .m100_content > .m100_list
+! Joongang
+news.joins.com###comment > .bd > .comment_list > .list
+mnews.joins.com###comment > .comment_list.body
+! Donga
+news.donga.com###spinTopLayer > .spinTopLayerList
+
+! [Newspaper 2]
+! Hangyeorae
+hani.co.kr###livereReplyWrapper
+! KyeongHyang
+khan.co.kr###liverePlugIn
+m.khan.co.kr###content > .mc1 > .reply_wrap
+
+! [Newspaper 3]
+! Yonhap
+yonhapnews.co.kr###liverePlugIn
+! CBS
+nocutnews.co.kr###liverePlugIn
+! Munhwa
+munhwa.com###liverePlugIn
+! Hankook
+hankookilbo.com###wrap > .container > .subCon > .centerCon > .newsStoryDetail > .DetailCon > .reply
+! Segye (Tongil)
+segye.com##.container > .content > .rela
+! Seoul
+||seoul.co.kr/news/getLivereSns.php$subdocument
+
+! [Newspaper - Economy]
+! Hankook Economy
+hankyung.com###liverePlugIn
+! Maeil Economy
+news.mk.co.kr###liverePlugIn
+! Asia Economy
+asiae.co.kr###liverePlugIn
+! Herald Economy - No comment
+! MoneyToday
+news.mt.co.kr###mt_social_reply
+
+
+! [Broadcaster 1]
+! KBS - PC, Mobile
+news.kbs.co.kr###container > .sec_container_blk > .inner_container_left > .sec_reply
+mn.kbs.co.kr###liverePlugIn
+! MBC - Hide comments by default
+! SBS - PC
+news.sbs.co.kr###liverePlugIn
+
+! [Broadcaster 2]
+! TV Chosun
+news.tvchosun.com###contents
+! JTBC
+news.jtbc.joins.com###divComment
+mnews.jtbc.joins.com##.sms_live
+! Channel A
+ichannela.com###livereContainer
+! MBN - No Comment System
+! YTN - Hide default
+ 
+! [Internet 1]
+! Jeonja
+
+! [Internet 2]
+! OhMyNews - PC
+ohmynews.com###liverePlugIn
+
+
+! [Fireworks]
+! NewDaily
+newdaily.co.kr###liverePlugIn
+

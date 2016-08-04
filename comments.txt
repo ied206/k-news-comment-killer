@@ -84,24 +84,40 @@ ichannela.com###livereContainer
 
 ! [Internet 1]
 ! Jeonja
-www.etnews.com###liverePlugIn
+etnews.com###liverePlugIn
 ! ZDNet
-www.zdnet.co.kr###livereReplyWrapper
+zdnet.co.kr###livereReplyWrapper
 ! DigitalTimes
-www.dt.co.kr###liverePlugIn
+dt.co.kr###liverePlugIn
 ! FinancialNews
 www.fnnews.com###content > .sub_sns
 m.fnnews.com##.content_sub.wrap > .sub_layer.content_wrap > .sub_cont > .left > .fb_iframe_widget_fluid.fb_iframe_widget.fb-comments
 ! Newsis
 www.newsis.com###livereContainer
 www.newsis.com###livereContentsContainer
-! iNews24
-news.inews24.com###livereContainerWrap
+mobile.newsis.com###liverePlugIn
+! inews24
+inews24.com###livereContainerWrap
 
 ! [Internet 2]
-! OhMyNews - PC
-ohmynews.com###liverePlugIn
 
 ! [Internet F]
+! OhMyNews
+ohmynews.com###liverePlugIn
+! Pressian
+www.pressian.com###livereContainer
+www.pressian.com###livereReplyWrapper
+! WikiTree
+www.wikitree.co.kr##.wrap > .section_view > .mb10.fl.left_v > .mt05.line_r_y.pt03 > .left_v_w > .sns_cmt_box
+www.wikitree.co.kr###rt_list_div
+m.wikitree.co.kr###commentBox
+m.wikitree.co.kr###newsView > .newsContents > .retweet
+! HuffingtonPost
+huffingtonpost.kr###conversations-huffpost-web
+! Insight
+insight.co.kr##.container > .container-view > .container-news > .container-news-fb-comment
+! Dailian
+dailian.co.kr###livereContainer
+dailian.co.kr###livereContentsContainer
 ! NewDaily
 newdaily.co.kr###liverePlugIn

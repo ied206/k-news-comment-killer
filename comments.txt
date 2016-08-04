@@ -9,12 +9,13 @@
 !
 ! No more anguish from K-News services' trash comments!
 ! This list removes comments of trash from news site.
- 
+
 ! [Portal]
 ! Naver News
 news.naver.com###cbox_module > .u_cbox_type_sort_favorite.u_cbox_ko.u_cbox_wrap > .u_cbox_content_wrap > .u_cbox_list
 ! Daum News
 media.daum.net##.cmt_box
+1boon.kakao.com###alex-area > .pc > .alex_single > .wrap_alex > .cmt_box
 ! Nate News
 news.nate.com##.ifr_reple
 ||m.comm.news.nate.com/view/CommentList$subdocument
@@ -63,11 +64,11 @@ news.mt.co.kr###mt_social_reply
 
 
 ! [Broadcaster 1]
-! KBS - PC, Mobile
+! KBS
 news.kbs.co.kr###container > .sec_container_blk > .inner_container_left > .sec_reply
 mn.kbs.co.kr###liverePlugIn
 ! MBC - Hide comments by default
-! SBS - PC
+! SBS
 news.sbs.co.kr###liverePlugIn
 
 ! [Broadcaster 2]
@@ -80,16 +81,27 @@ mnews.jtbc.joins.com##.sms_live
 ichannela.com###livereContainer
 ! MBN - No Comment System
 ! YTN - Hide default
- 
+
 ! [Internet 1]
 ! Jeonja
+www.etnews.com###liverePlugIn
+! ZDNet
+www.zdnet.co.kr###livereReplyWrapper
+! DigitalTimes
+www.dt.co.kr###liverePlugIn
+! FinancialNews
+www.fnnews.com###content > .sub_sns
+m.fnnews.com##.content_sub.wrap > .sub_layer.content_wrap > .sub_cont > .left > .fb_iframe_widget_fluid.fb_iframe_widget.fb-comments
+! Newsis
+www.newsis.com###livereContainer
+www.newsis.com###livereContentsContainer
+! iNews24
+news.inews24.com###livereContainerWrap
 
 ! [Internet 2]
 ! OhMyNews - PC
 ohmynews.com###liverePlugIn
 
-
-! [Fireworks]
+! [Internet F]
 ! NewDaily
 newdaily.co.kr###liverePlugIn
-

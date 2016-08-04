@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 20160621
+! Version: 20160805
 ! Title:Joveler's K-News Comment Killer
 ! Last modified: 5 Aug 2016
 ! Expires: 3 days (update frequency)

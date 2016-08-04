@@ -37,8 +37,8 @@ PC뿐만 아니라 모바일에서도 사용 가능합니다!
 2. AdBlock Plus와 호환되는 차단용 부가 기능을 설치합니다.  
    성능이 가장 좋은 uBlock Origin을 추천합니다.  
    [모질라 부가 기능 홈페이지](https://addons.mozilla.org/ko/android/addon/ublock-origin)에서 설치할 수 있습니다.  
-3. uBlock Origin의 대시보드에 들어갑니다.
-> 진입 방법 : 메뉴 - 도구 - 부가 기능 - uBlock Origin - 대쉬보드 보기
+3. uBlock Origin의 대시보드에 들어갑니다.  
+> 진입 방법 : `메뉴 - 도구 - 부가 기능 - uBlock Origin - 대쉬보드 보기`
 4. 이후는 PC와 동일합니다.
 
 # 정책

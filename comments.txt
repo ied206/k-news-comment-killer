@@ -1,14 +1,14 @@
 [Adblock Plus 2.0]
 ! Version: 20160621
 ! Title:Joveler's K-News Comment Killer
-! Last modified: 21 Jun 2016
+! Last modified: 4 Aug 2016
 ! Expires: 3 days (update frequency)
-! Homepage: https://joveler.kr
+! Homepage: https://github.com/ied206/k-news-comment-killer
 !
 ! -----------------------General Blocking Rules-----------------------
 !
-! No more anguish from K-News Trash, Ilbe-style Comments!
-! This list deletes comments of trash from news site.
+! No more anguish from K-News services' trash comments!
+! This list removes comments of trash from news site.
  
 ! [Portal]
 ! Naver News

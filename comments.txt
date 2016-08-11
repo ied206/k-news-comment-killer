@@ -23,6 +23,7 @@ news.nate.com##.ifr_reple
 ! [Newspaper 1]
 ! Chosun
 news.chosun.com###news_comment_id > .sec_con
+biz.chosun.com###Comment
 m.chosun.com###contents > .m100_wrap > .m100_content > .m100_list
 ! Joongang
 news.joins.com###comment > .bd > .comment_list > .list

@@ -1,14 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 20160805
-! Title:Joveler's K-News Comment Killer
-! Last modified: 5 Aug 2016
-! Expires: 3 days (update frequency)
+! Title: Joveler's K-News Comment Killer
 ! Homepage: https://github.com/ied206/k-news-comment-killer
-!
-! -----------------------General Blocking Rules-----------------------
-!
-! No more anguish from K-News services' trash comments!
-! This list removes comments of trash from news site.
+! Expires: 3 days (update frequency)
+! Version: 20160811
 
 ! [Portal]
 ! Naver News
@@ -101,6 +95,15 @@ mobile.newsis.com###liverePlugIn
 inews24.com###livereContainerWrap
 
 ! [Internet 2]
+! Dispatch
+dispatch.co.kr###dp-news-bottom-01
+! MyDaily
+mydaily.co.kr###Reply_Area
+! SportKhan
+khan.co.kr###livereContentsContainer
+khan.co.kr###livereContainer
+khan.co.kr###livereFbContainer
+m.sports.khan.co.kr###content > .mc1 > .reply_wrap
 
 ! [Internet F]
 ! OhMyNews

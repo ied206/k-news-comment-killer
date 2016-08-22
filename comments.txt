@@ -13,6 +13,8 @@ media.daum.net##.cmt_box
 ! Nate News
 news.nate.com##.ifr_reple
 ||m.comm.news.nate.com/view/CommentList$subdocument
+! MSN News
+www.msn.com###fbcommentsmodule
 
 ! [Newspaper 1]
 ! Chosun

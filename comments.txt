@@ -59,6 +59,19 @@ asiae.co.kr###liverePlugIn
 ! MoneyToday
 news.mt.co.kr###mt_social_reply
 
+! [Magazine 1]
+! WeeklyDonga
+weekly.donga.com###reply
+! ShinDonga
+shindonga.donga.com###reply_news
+shindonga.donga.com###reply_btn
+! WomanDonga
+woman.donga.com###reply_wrap
+
+! [Magazine 2]
+! SisaIN
+sisainlive.com###livereContainerBody
+
 
 ! [Broadcaster 1]
 ! KBS
@@ -107,7 +120,7 @@ khan.co.kr###livereContainer
 khan.co.kr###livereFbContainer
 m.sports.khan.co.kr###content > .mc1 > .reply_wrap
 
-! [Internet F]
+! [Internet 0x0F]
 ! OhMyNews
 ohmynews.com###liverePlugIn
 ! Pressian
@@ -122,6 +135,10 @@ m.wikitree.co.kr###newsView > .newsContents > .retweet
 huffingtonpost.kr###conversations-huffpost-web
 ! Insight
 insight.co.kr##.container > .container-view > .container-news > .container-news-fb-comment
+! SlowNews
+slownews.kr###conversation
+! ppss
+ppss.kr##.comments
 ! Dailian
 dailian.co.kr###livereContainer
 dailian.co.kr###livereContentsContainer

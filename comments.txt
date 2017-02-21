@@ -2,7 +2,7 @@
 ! Title: Joveler's K-News Comment Killer
 ! Homepage: https://github.com/ied206/k-news-comment-killer
 ! Expires: 3 days (update frequency)
-! Version: 20160811
+! Version: 20170221
 
 ! [Portal]
 ! Naver News

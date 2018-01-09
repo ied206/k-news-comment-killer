@@ -20,8 +20,8 @@ www.msn.com###fbcommentsmodule
 ! Chosun
 news.chosun.com###news_comment_id
 premium.chosun.com###news_comment_id
-biz.chosun.com###Comment
-m.chosun.com###contents > .m100_wrap > .m100_content > .m100_list
+biz.chosun.com###news_comment_id
+m.biz.chosun.com##.m100_content
 ! Joongang
 news.joins.com###comment > .bd > .comment_list > .list
 mnews.joins.com###comment > .comment_list.body

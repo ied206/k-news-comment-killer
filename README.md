@@ -16,7 +16,7 @@ PC뿐만 아니라 모바일에서도 사용 가능합니다.
 
 1. uBlock Origin의 대시보드에 들어갑니다.
 
-> Firefox : `부가 기능 - 확장 기능 - uBlock Origin - 설정 - 대쉬보드 보기`
+> Firefox : `부가 기능 - 확장 기능 - uBlock Origin - 설정 - 대쉬보드 보기`<br>
 > Chrome : `설정 - 확장 프로그램 - uBlock Origin - 옵션`
 
 2. 대시보드의 `보조 필터` 탭을 선택합니다.
@@ -35,7 +35,7 @@ PC뿐만 아니라 모바일에서도 사용 가능합니다.
 
 1. AdBlock Plus의 필터 설정 창에 들어갑니다.
 
-> Firefox : `부가 기능 - 확장 기능 - AdBlock Plus - 필터 설정`
+> Firefox : `부가 기능 - 확장 기능 - AdBlock Plus - 필터 설정`<br>
 > Chrome : `설정 - 확장 프로그램 - AdBlock Plus - 옵션`
 
 2. `구독 필터 추가` 버튼을 누른 뒤 `다른 구독 필터 추가`를 누르십시오.

@@ -2,7 +2,7 @@
 ! Title: Joveler's K-News Comment Killer
 ! Homepage: https://github.com/ied206/k-news-comment-killer
 ! Expires: 3 days (update frequency)
-! Version: 20160811
+! Version: 20180110
 
 ! [Portal]
 ! Naver News
@@ -16,26 +16,22 @@ news.nate.com##.ifr_reple
 ! MSN News
 www.msn.com###fbcommentsmodule
 
-! [Newspaper 1]
+! [Newspaper]
 ! Chosun
 news.chosun.com###news_comment_id
 premium.chosun.com###news_comment_id
 biz.chosun.com###news_comment_id
 m.biz.chosun.com##.m100_content
 ! Joongang
-news.joins.com###comment > .bd > .comment_list > .list
-mnews.joins.com###comment > .comment_list.body
+news.joins.com###comment
+mnews.joins.com###bd_comment
 ! Donga
 news.donga.com###spinTopLayer > .spinTopLayerList
-
-! [Newspaper 2]
 ! Hangyeorae
 hani.co.kr###livereReplyWrapper
 ! KyeongHyang
 khan.co.kr###liverePlugIn
 m.khan.co.kr###content > .mc1 > .reply_wrap
-
-! [Newspaper 3]
 ! Yonhap
 yonhapnews.co.kr###liverePlugIn
 ! CBS
@@ -48,8 +44,6 @@ hankookilbo.com###wrap > .container > .subCon > .centerCon > .newsStoryDetail > 
 segye.com##.container > .content > .rela
 ! Seoul
 ||seoul.co.kr/news/getLivereSns.php$subdocument
-
-! [Newspaper - Economy]
 ! Hankook Economy
 hankyung.com###liverePlugIn
 ! Maeil Economy
@@ -60,7 +54,7 @@ asiae.co.kr###liverePlugIn
 ! MoneyToday
 news.mt.co.kr###mt_social_reply
 
-! [Magazine 1]
+! [Magazine]
 ! WeeklyDonga
 weekly.donga.com###reply
 ! ShinDonga
@@ -68,21 +62,18 @@ shindonga.donga.com###reply_news
 shindonga.donga.com###reply_btn
 ! WomanDonga
 woman.donga.com###reply_wrap
-
-! [Magazine 2]
-! SisaIN
+! SisaIn
 sisainlive.com###livereContainerBody
+! SisaPress
+www.sisapress.com###comment-wrap-index
 
-
-! [Broadcaster 1]
+! [Broadcaster]
 ! KBS
 news.kbs.co.kr###container > .sec_container_blk > .inner_container_left > .sec_reply
 mn.kbs.co.kr###liverePlugIn
 ! MBC - Hide comments by default
 ! SBS
 news.sbs.co.kr###liverePlugIn
-
-! [Broadcaster 2]
 ! TV Chosun
 news.tvchosun.com###contents
 ! JTBC
@@ -92,8 +83,6 @@ mnews.jtbc.joins.com##.sms_live
 ichannela.com###livereContainer
 ! MBN - No Comment System
 ! YTN - Hide default
-
-! [Internet 1]
 ! Jeonja
 etnews.com###liverePlugIn
 ! ZDNet
@@ -109,8 +98,6 @@ www.newsis.com###livereContentsContainer
 mobile.newsis.com###liverePlugIn
 ! inews24
 inews24.com###livereContainerWrap
-
-! [Internet 2]
 ! Dispatch
 dispatch.co.kr###dp-news-bottom-01
 ! MyDaily
@@ -120,8 +107,6 @@ khan.co.kr###livereContentsContainer
 khan.co.kr###livereContainer
 khan.co.kr###livereFbContainer
 m.sports.khan.co.kr###content > .mc1 > .reply_wrap
-
-! [Internet 0x0F]
 ! OhMyNews
 ohmynews.com###liverePlugIn
 ! Pressian
@@ -145,3 +130,6 @@ dailian.co.kr###livereContainer
 dailian.co.kr###livereContentsContainer
 ! NewDaily
 newdaily.co.kr###liverePlugIn
+! WomenNews
+womennews.co.kr###lv-container
+

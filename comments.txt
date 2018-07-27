@@ -8,7 +8,7 @@
 ! Naver News
 news.naver.com###cbox_module > .u_cbox_type_sort_favorite.u_cbox_ko.u_cbox_wrap > .u_cbox_content_wrap > .u_cbox_list
 ! Daum News
-media.daum.net##.cmt_box
+news.v.daum.net##.cmt_box
 realestate.daum.net##.cmt_box
 1boon.kakao.com###alex-area > .pc > .alex_single > .wrap_alex > .cmt_box
 v.auto.daum.net##.wrap_alex

@@ -8,8 +8,8 @@
 ! Naver News
 news.naver.com###cbox_module > .u_cbox_type_sort_favorite.u_cbox_ko.u_cbox_wrap > .u_cbox_content_wrap > .u_cbox_list
 ! Daum News
-*.daum.net##.cmt_box
-*.kakao.com##.cmt_box
+daum.net##.cmt_box
+kakao.com##.cmt_box
 ! Nate News
 news.nate.com##.ifr_reple
 ||m.comm.news.nate.com/view/CommentList$subdocument
@@ -53,6 +53,21 @@ asiae.co.kr###liverePlugIn
 ! Herald Economy - No comment
 ! MoneyToday
 news.mt.co.kr###mt_social_reply
+! Jeonja
+etnews.com###liverePlugIn
+! ZDNet
+zdnet.co.kr###livereReplyWrapper
+! DigitalTimes
+dt.co.kr###liverePlugIn
+! FinancialNews
+www.fnnews.com###content > .sub_sns
+m.fnnews.com##.content_sub.wrap > .sub_layer.content_wrap > .sub_cont > .left > .fb_iframe_widget_fluid.fb_iframe_widget.fb-comments
+! Newsis
+www.newsis.com###livereContainer
+www.newsis.com###livereContentsContainer
+mobile.newsis.com###liverePlugIn
+! inews24
+inews24.com###livereContainerWrap
 
 ! [Magazine]
 ! WeeklyDonga
@@ -83,21 +98,8 @@ mnews.jtbc.joins.com##.sms_live
 ichannela.com###livereContainer
 ! MBN - No Comment System
 ! YTN - Hide default
-! Jeonja
-etnews.com###liverePlugIn
-! ZDNet
-zdnet.co.kr###livereReplyWrapper
-! DigitalTimes
-dt.co.kr###liverePlugIn
-! FinancialNews
-www.fnnews.com###content > .sub_sns
-m.fnnews.com##.content_sub.wrap > .sub_layer.content_wrap > .sub_cont > .left > .fb_iframe_widget_fluid.fb_iframe_widget.fb-comments
-! Newsis
-www.newsis.com###livereContainer
-www.newsis.com###livereContentsContainer
-mobile.newsis.com###liverePlugIn
-! inews24
-inews24.com###livereContainerWrap
+
+! [NoName]
 ! Dispatch
 dispatch.co.kr###dp-news-bottom-01
 ! MyDaily

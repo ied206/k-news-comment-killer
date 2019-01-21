@@ -33,7 +33,7 @@ hani.co.kr###livereReplyWrapper
 khan.co.kr###liverePlugIn
 m.khan.co.kr###content > .mc1 > .reply_wrap
 ! Yonhap
-yonhapnews.co.kr###liverePlugIn
+yna.co.kr###lv-container
 ! CBS
 nocutnews.co.kr###liverePlugIn
 ! Munhwa
@@ -68,6 +68,8 @@ www.newsis.com###livereContentsContainer
 mobile.newsis.com###liverePlugIn
 ! inews24
 inews24.com###livereContainerWrap
+! Bloter
+bloter.net###lv-container
 
 ! [Magazine]
 ! WeeklyDonga

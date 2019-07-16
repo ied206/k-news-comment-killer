@@ -47,7 +47,7 @@ segye.com##.container > .content > .rela
 ! Hankook Economy
 hankyung.com###liverePlugIn
 ! Maeil Economy
-news.mk.co.kr###liverePlugIn
+mk.co.kr###lv-container
 ! Asia Economy
 asiae.co.kr###liverePlugIn
 ! Herald Economy - No comment

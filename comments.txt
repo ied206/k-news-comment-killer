@@ -40,6 +40,7 @@ nocutnews.co.kr###liverePlugIn
 munhwa.com###liverePlugIn
 ! Hankook
 hankookilbo.com###comments_board
+m.hankookilbo.com###comments_board
 ! Segye (Tongil)
 segye.com##.container > .content > .rela
 ! Seoul

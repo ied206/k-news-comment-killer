@@ -26,7 +26,7 @@ m.biz.chosun.com##.m100_content
 news.joins.com###comment
 mnews.joins.com###bd_comment
 ! Donga
-news.donga.com###spinTopLayer > .spinTopLayerList
+www.donga.com###spinTopLayer
 ! Hangyeorae
 hani.co.kr###livereReplyWrapper
 ! KyeongHyang
@@ -89,7 +89,8 @@ www.sisapress.com###comment-wrap-index
 ! KBS
 news.kbs.co.kr###container > .sec_container_blk > .inner_container_left > .sec_reply
 mn.kbs.co.kr###liverePlugIn
-! MBC - Hide comments by default
+! MBC
+imnews.imbc.com###commentBox
 ! SBS
 news.sbs.co.kr###liverePlugIn
 ! TV Chosun

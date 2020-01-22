@@ -92,7 +92,7 @@ mn.kbs.co.kr###liverePlugIn
 ! MBC
 imnews.imbc.com###commentBox
 ! SBS
-news.sbs.co.kr###liverePlugIn
+news.sbs.co.kr###lv-container
 ! TV Chosun
 news.tvchosun.com###contents
 ! JTBC

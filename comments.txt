@@ -53,7 +53,7 @@ mk.co.kr###lv-container
 asiae.co.kr###liverePlugIn
 ! Herald Economy - No comment
 ! MoneyToday
-news.mt.co.kr###mt_social_reply
+news.mt.co.kr###reply
 ! Jeonja
 etnews.com###liverePlugIn
 ! ZDNet

@@ -6,7 +6,7 @@
 
 ! [Portal]
 ! Naver News
-news.naver.com###cbox_module > .u_cbox_type_sort_favorite.u_cbox_ko.u_cbox_wrap > .u_cbox_content_wrap > .u_cbox_list
+news.naver.com##div[class="u_cbox_content_wrap"]
 ! Daum News
 daum.net##.cmt_box
 kakao.com##.cmt_box

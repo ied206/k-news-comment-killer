@@ -18,8 +18,7 @@ www.msn.com###fbcommentsmodule
 
 ! [Newspaper]
 ! Chosun
-chosun.com###news_comment_id
-m.biz.chosun.com##.m100_content
+chosun.com##.comment-feed
 ! Joongang
 news.joins.com###comment
 mnews.joins.com###bd_comment
